@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13447155-aed9-4a46-b329-02f6f30cea9b" name="Default Changelist" comment="将项目名为Testgit提交">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testgit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zz/H.java" afterDir="false" />
+    <list default="true" id="13447155-aed9-4a46-b329-02f6f30cea9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +44,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -76,8 +69,16 @@
       <option name="presentableId" value="Default" />
       <updated>1577669283839</updated>
       <workItem from="1577669286887" duration="69000" />
-      <workItem from="1577669377671" duration="1748000" />
+      <workItem from="1577669377671" duration="1855000" />
     </task>
+    <task id="LOCAL-00001" summary="将项目名为Testgit提交">
+      <created>1577671312885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577671312885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,18 +89,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="将项目名为Testgit提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="103" key="CommitChangelistDialog2" timestamp="1577670538332">
+    <state x="560" y="103" key="CommitChangelistDialog2" timestamp="1577671332410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="103" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577670538332" />
+    <state x="560" y="103" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577671332410" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1577669660246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577669660246" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1577669352405">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1577671377591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577669352405" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577671377591" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577671324977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577671324977" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577669380184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
